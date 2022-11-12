@@ -1,6 +1,11 @@
 # FRT-Demo-Website
 Demo website for Future Ready Talent Project
 
+Name : Sayan Bhattacharjee
+Techno India University , West Bengal
+E-mail : sayanbhattacharjee2001@gmail.com
+Joining Code : SIRIUS2022
+
 This project features my website that displays all my digital artwork . This website helps me connect with people who like my artwork and gives them an opportunity to browse through my collections for free. They can also easily contact me with the click of a button.
 
 In this project I have created my website using HTML,CSS and JavaScript ; used Bootsrap for a responsive design and then uploaded my code on Github. Then I used Azure Static Apps to link the GitHub repository that had my website and created a workflow that would deploy the static app. The Static App hosts the website on Azure. The steps for creating a static app were as follows : 
