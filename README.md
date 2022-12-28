@@ -10,7 +10,9 @@ E-mail : sayanbhattacharjee2001@gmail.com
 Joining Code : SIRIUS2022
 
 *Project Name* : Azure Powered Website Hosting
+
 *Deployment URL* : https://kind-sand-01a519f00.2.azurestaticapps.net/
+
 *Deployment Video URL* : https://youtu.be/G8lG4GxLox0
 
 *Opportunity* : This project features my website that displays all my digital artwork . This website helps me connect with people who like my artwork and gives them an opportunity to browse through my collections for free. They can also easily contact me with the click of a button.
