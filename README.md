@@ -2,8 +2,11 @@
 Demo website for Future Ready Talent Project
 
 Name : Sayan Bhattacharjee
+
 Techno India University , West Bengal
+
 E-mail : sayanbhattacharjee2001@gmail.com
+
 Joining Code : SIRIUS2022
 
 *Project Name* : Azure Powered Website Hosting
